@@ -12,6 +12,7 @@ namespace helloworld
         {
             Console.WriteLine("hello Git !");
             Console.ReadKey();
+			/*j'aime les patates*/
         }
     }
 }
